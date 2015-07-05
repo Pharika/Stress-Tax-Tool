@@ -1,0 +1,43 @@
+fieldset
+{
+border: 1px solid #781351;
+width: 25em
+}
+legend
+{
+color: #fff;
+background: #ffa20c;
+border: 1px solid #781351;
+padding: 2px 6px
+}
+input
+{
+color: #781351;
+background: #fee3ad;
+border: 1px solid #781351
+}
+textarea
+{
+color: #781351;
+background: #fee3ad;
+border: 1px solid #781351
+}  
+
+.submit input
+{
+color: #000;
+background: #ffa20f;
+border: 2px outset #d7b9c9
+}
+select
+{
+color: #000;
+background: #ffcc99;
+border: 2px outset #d7b9c9
+}
+table
+{
+color: #000;
+background: #ffcc99;
+border: 2px outset #d7b9c9
+}
